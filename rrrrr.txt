@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 tttttttttttttttfdafdsadfasd
 rrrrr
+=======
+rrrrrrrr
+ttttttttttttttt
+>>>>>>> 6ab7902109f5962b2c9adc6c1cb7966aff6500b8
